@@ -27,7 +27,7 @@ Here are some of the key features of this Password Manager :
 ## Installation
 ```
 # clone this repository
-git clone https://github.com/Zaid-Altaf/Password-Manager.git
+git clone https://github.com/Zaid-Altaf/Password-Manager-with-Vault.git
 
 # Change directory
 cd PasswordManager
